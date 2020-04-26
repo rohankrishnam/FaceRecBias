@@ -57,7 +57,10 @@ https://github.com/ddasgupta4/bfw-dash
 
 ![](Images/DETCyrve.png)
 
-DET Curves, top left is by gender, top right is by ethnicity, and bottom left is by combined subgroups (i.e., Asian male, black female, Indian female, etc.)
+DET Curves: top left is by gender, top right is by ethnicity, and bottom left is by combined subgroups (i.e., Asian male, black female, Indian female, etc.)
+
+![](Images/SDMCurve.png)
+SDM Curve: Imposters (blue) have a median score of 0 and follow a gaussian pattern, genuine (orange) vary in score
 
 
 # Features
