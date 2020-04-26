@@ -31,9 +31,13 @@ Gender and Race Database Statistics: Statistics of the Balanced Faces in the Wil
 
 # Key Terms
 False positive: Occurs when two faces are incorrectly identified as an identical match, AKA type 1 error
+
 False negative: Occurs when two faces of the same person are not identified as an identical match, AKA type 2 error
+
 SDM Curve: Signal detection model curve plots a distribution of scores, using imposter and genuine scores against each other to highlight the differences between accurate and incorrect facial identifications.
+
 DET Curve: Detection error trade off curve plots the false negative rate (FNR) as a function of the false positive rate (FPR), displaying the tradeoff between the sensitivity with FPR and specificity with FNR.
+
 ROC Curve: Receiever operating characteristic curve plots the true positive rate (TPR) against the false positive rate (FPR). It is a probability curve yielding the most ideal values in the top left, where FPR = 0 and TPR = 1. 
 
 
