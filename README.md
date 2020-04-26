@@ -55,7 +55,9 @@ https://github.com/ddasgupta4/bfw-dash
 
 # Screenshots
 
+![](Images/DETCyrve.png)
 
+DET Curves
 
 
 # Features
