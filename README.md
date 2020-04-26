@@ -57,7 +57,7 @@ https://github.com/ddasgupta4/bfw-dash
 
 ![](Images/DETCyrve.png)
 
-DET Curves
+DET Curves, top left is by gender, top right is by ethnicity, and bottom left is by combined subgroups (i.e., Asian male, black female, Indian female, etc.)
 
 
 # Features
