@@ -18,7 +18,16 @@ SDM Curve: Imposters (blue) have a median score of 0 and follow a gaussian patte
 
 ![](Images/ROC2.jpg)
 
-ROC plot
+ROC plot by combined subgroups
+
+![](Images/ROC1%20(1).jpg)
+
+ROC plot by gender
+
+![](Images/ROC3%20(1).jpg)
+
+ROC plot by ethnicity
+
 
 ![](Images/ConfusionMatrix.png)
 
