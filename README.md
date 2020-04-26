@@ -21,6 +21,8 @@ https://github.com/rohankrishnam/FaceRecBias/blob/master/EECE2300-BIAS-RISE-2020
 
 
 
+
+
 BFW Image set [Robinson,Joseph]. Various faces from the Balanced Faces in the Wild (BFW) database used to establish an unbiased identification method by representing each race and gender to the same extent. 
 
 
@@ -56,6 +58,10 @@ https://github.com/ddasgupta4/bfw-dash
 
 # Features
 Our dashboard tool is universal, meaning anyone can learn how to use it and anyone can import their own unique dataset. It will use the data given to create various plots that include SDM curves, DET curves, ROC curves, and violin plots. Not only will a user's data be cleanly displayed in different visuals, but it will be assessed for bias. Each user will mst likely have a different dataset, meaning the bias will vary from set to set. Rather than having to manually assess your own data for bias, the dashboard will algorithimically do it for you. 
+
+
+![](Images/DashBoard.png)
+DashBoard Interface Layout
 
 
 
