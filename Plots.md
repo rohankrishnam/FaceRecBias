@@ -24,7 +24,7 @@ ROC plot by combined subgroups
 
 ROC plot by gender
 
-![](Images/ROC3%20(1).jpg)
+![](Images/roc3%20(1).jpg)
 
 ROC plot by ethnicity
 
