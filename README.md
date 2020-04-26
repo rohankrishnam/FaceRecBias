@@ -5,6 +5,8 @@ Alice Loukianova, Dylan Dasgupta, Joseph Robinson, Rohan Krishnamurthi, and Will
 
 Facial recognition (FR) technology is an advanced form of biometric security that involves assessing one’s face and comparing it to a known database to form an identity. This software has become increasingly popular in recent years, as the need for more complex security measures has become essential. While this concept has been around since the mid-1900s, it has only become so popular in recent years. However, with this intricate technology comes complicated issues. A major issue that has remained prevalent in the technology is a bias towards certain users because of their demographic. We will demonstrate this bias, and look at ways to eliminate it to create a nondiscriminatory evaluation available for all FR users. It is unfair some users are subject to experience more errors than others, due to their diverse backgrounds.
 
+![](Images/facemontage.pdf)
+
 We have created a dashboard tool that allows users to test their own FR dataset for bias:
 https://github.com/ddasgupta4/bfw-dash
 
