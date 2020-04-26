@@ -14,6 +14,9 @@ https://github.com/rohankrishnam/FaceRecBias/blob/master/A%20Fairness%20Tool%20f
 Our Prezi presented at Northeastern RISE 2020
 https://prezi.com/js6eygtyapjl/rise-2020-bias-in-fr-technology/
 
+And finally, our poster introduction at Northeastern RISE 2020
+https://github.com/rohankrishnam/FaceRecBias/blob/master/EECE2300-BIAS-RISE-2020-POSTER.pdf
+
 
 
 
