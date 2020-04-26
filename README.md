@@ -10,17 +10,21 @@ Facial recognition (FR) technology is an advanced form of biometric security tha
 # Resources
 
 We have created a dashboard tool that allows users to test their own FR dataset for bias:
+
 https://github.com/ddasgupta4/bfw-dash
 
 Additionally, check out our research paper on the topic:
+
 https://github.com/rohankrishnam/FaceRecBias/blob/master/A%20Fairness%20Tool%20for%20Bias%20in%20FR%20Updated.docx
 
 # Northeastern RISE 2020
 
-Our Prezi presented at Northeastern RISE 2020
+Our Prezi presented at Northeastern RISE 2020:
+
 https://prezi.com/js6eygtyapjl/rise-2020-bias-in-fr-technology/
 
-And finally, our poster introduction at Northeastern RISE 2020
+And finally, our poster introduction at Northeastern RISE 2020:
+
 https://github.com/rohankrishnam/FaceRecBias/blob/master/EECE2300-BIAS-RISE-2020-POSTER.pdf
 
 
