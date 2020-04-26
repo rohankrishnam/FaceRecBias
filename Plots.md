@@ -23,3 +23,8 @@ ROC plot
 ![](Images/ConfusionMatrix.png)
 
 Confusion Matrix: The error (%) for the various faces of BFW vs. all others. AF performs the worst as WM performs the best, meaning AF is confused most often. 
+
+
+Here is the most recent notebook with the DET & ROC Curves:
+
+https://files.slack.com/files-pri/TRZJNEGE6-F012XL8UFBK/download/bfw-det-curves.ipynb
