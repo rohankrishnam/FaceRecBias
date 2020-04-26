@@ -7,7 +7,7 @@ Facial recognition (FR) technology is an advanced form of biometric security tha
 
 ![](Images/facemontage.pdf)
 
-#Resources
+# Resources
 
 We have created a dashboard tool that allows users to test their own FR dataset for bias:
 https://github.com/ddasgupta4/bfw-dash
