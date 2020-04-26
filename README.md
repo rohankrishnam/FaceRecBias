@@ -68,9 +68,11 @@ https://github.com/ddasgupta4/bfw-dash
 DET Curves: top left is by gender, top right is by ethnicity, and bottom left is by combined subgroups (i.e., Asian male, black female, Indian female, etc.)
 
 ![](Images/SDMCurve.png)
+
 SDM Curve: Imposters (blue) have a median score of 0 and follow a gaussian pattern, genuine (orange) vary in score
 
 ![](Images/ConfusionMatrix.png)
+
 Confusion Matrix: The error (%) for the various faces of BFW vs. all others. AF performs the worst as WM performs the best, meaning AF is confused most often. 
 
 
