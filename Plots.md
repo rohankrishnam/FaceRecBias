@@ -26,7 +26,7 @@ ROC plot by gender
 
 ![](Images/roc3%20(1).jpg)
 
-ROC plot by ethnicity
+ROC plot by ethnicity (A :Asian, B: Black, I: Indian, W: White)
 
 
 ![](Images/ConfusionMatrix.png)
