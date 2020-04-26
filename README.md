@@ -70,9 +70,12 @@ DET Curves: top left is by gender, top right is by ethnicity, and bottom left is
 ![](Images/SDMCurve.png)
 SDM Curve: Imposters (blue) have a median score of 0 and follow a gaussian pattern, genuine (orange) vary in score
 
+![](Images/ConfusionMatrix.png)
+Confusion Matrix: The error (%) for the various faces of BFW vs. all others. AF performs the worst as WM performs the best, meaning AF is confused most often. 
+
 
 # Features
-Our dashboard tool is universal, meaning anyone can learn how to use it and anyone can import their own unique dataset. It will use the data given to create various plots that include SDM curves, DET curves, ROC curves, and violin plots. Not only will a user's data be cleanly displayed in different visuals, but it will be assessed for bias. Each user will mst likely have a different dataset, meaning the bias will vary from set to set. Rather than having to manually assess your own data for bias, the dashboard will algorithimically do it for you. 
+Our dashboard tool is universal, meaning anyone can learn how to use it and anyone can import their own unique dataset. It will use the data given to create various plots that include SDM curves, DET curves, ROC curves, and violin plots. Not only will a user's data be cleanly displayed in different visuals, but it will be assessed for bias. Each user will mst likely have a different dataset, meaning the bias will vary from set to set. Rather than having to manually assess your own data for bias, the dashboard will algorithimically do it for you. Another great visualization tool is the confusion matrix, which will display the error rate between stated subgroups for the entire dataset. By breaking it down to the intra-subgroup level we can assess which subgroups are confused the most, and which subgroups are confused by each other most. That is to say: if white males are confused with white males or white females, or even other subgroups. This way, the bias can be truly understood and it becomes evident where the data is skewed. 
 
 
 ![](Images/DashBoard.png)
