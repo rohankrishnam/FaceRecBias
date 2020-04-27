@@ -2,8 +2,7 @@
 
 The dashboard we have created is a very versatile tool, allowing for users of any skill level to understand it for their own motivation. 
 Users can upload their own facial recognition dataset, and have it be assessed for bias present. When users upload their data, they can 
-view their information in the datatable and ensure that they have uploaded the correct files and that they are being displayed in the  
-correct manner. From there, a data summary can be generated for an overview of the data given. Once the data is confirmed to be correct,
+view their information in the datatable and ensure that they have uploaded the correct files and that they are being displayed correctly. From there, a data summary can be generated for an overview of the data given. Once the data is confirmed to be correct,
 users can choose to view their information in 5 different visualizations.
 
 1. Confusion matrix
