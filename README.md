@@ -23,6 +23,10 @@ Our Prezi presented at Northeastern RISE 2020:
 
 https://prezi.com/js6eygtyapjl/rise-2020-bias-in-fr-technology/
 
+Our conclusive presentation (using Prezi above) at Northeastern RISE 2020 via Microsoft Teams
+
+https://web.microsoftstream.com/video/87c8980d-42f9-46be-ae2c-156f94eb2de8
+
 And finally, our poster introduction at Northeastern RISE 2020:
 
 https://github.com/rohankrishnam/FaceRecBias/blob/master/EECE2300-BIAS-RISE-2020-POSTER.pdf
