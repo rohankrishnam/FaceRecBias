@@ -11,7 +11,7 @@ users can choose to view their information in 5 different visualizations.
 
 2. DET Curves
 
-![](Images/DET3.jpg)
+![](DashImages/DET3.jpg)
 
 3. Violing plots
 
