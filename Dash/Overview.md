@@ -34,3 +34,8 @@ Dashboard layout
 ![](DashImages/ezgif.com-video-to-gif.gif)
 
 Dashboard GIF tutorial
+
+
+![](DashImages/bfw-dash-demo (1).mp4)
+
+Dashboard Video Tutorial
