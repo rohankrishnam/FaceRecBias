@@ -29,7 +29,7 @@ https://web.microsoftstream.com/video/87c8980d-42f9-46be-ae2c-156f94eb2de8
 
 And finally, our poster introduction at Northeastern RISE 2020:
 
-https://github.com/rohankrishnam/FaceRecBias/blob/master/EECE2300-BIAS-RISE-2020-POSTER.pdf
+https://github.com/rohankrishnam/FaceRecBias/blob/master/Docs/EECE2300-BIAS-RISE-2020-POSTER%20(1).pdf
 
 
 
