@@ -5,11 +5,11 @@ Users can upload their own facial recognition dataset, and have it be assessed f
 view their information in the datatable and ensure that they have uploaded the correct files and that they are being displayed correctly. From there, a data summary can be generated for an overview of the data given. Once the data is confirmed to be correct,
 users can choose to view their information in 5 different visualizations:
 
-Confusion Matrix
-DET Curves
-Violin plots
-Box plots
-SDM Curves
+Confusion Matrix,
+DET Curves,
+Violin plots,
+Box plots,
+SDM Curves.
 
 Examples are all found in the document below:
 
