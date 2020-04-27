@@ -8,3 +8,5 @@ guitar at Northeastern and is involved in the Institute of Industrial Engineers 
 of Engineers(SASE). He has tutored students at all levels including Calculus, Geometry, and Chemistry throughout high school and basic
 Mathematics and English to elementary students in London, UK. 
 
+![](IMG_8209%20(1).jpg)
+
