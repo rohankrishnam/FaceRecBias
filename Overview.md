@@ -15,7 +15,7 @@ https://github.com/ddasgupta4/bfw-dash
 
 Additionally, check out our research paper on the topic:
 
-https://github.com/rohankrishnam/FaceRecBias/blob/master/A%20Fairness%20Tool%20for%20Bias%20in%20FR%20Updated.docx
+https://github.com/rohankrishnam/FaceRecBias/blob/master/Docs/A%20Fairness%20Tool%20for%20Bias%20in%20FR%20Updated%20(2).docx
 
 # Northeastern RISE 2020
 
