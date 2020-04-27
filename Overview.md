@@ -79,7 +79,7 @@ Our dashboard tool is universal, meaning anyone can learn how to use it and anyo
 ![](Images/DashBoard.png)
 DashBoard Interface Layout
 
-![](Dash/ezgif.com-video-to-gif.gif)
+![](Dash/DashImages/ezgif.com-video-to-gif.gif)
 
 Dashboard GIF tutorial
 
