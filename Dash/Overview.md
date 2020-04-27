@@ -29,3 +29,6 @@ enjoy.
 ![](DashImages/DashBoard.png)
 
 Dashboard layout
+
+
+![](DashImages/Eazy)
