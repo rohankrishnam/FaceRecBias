@@ -7,7 +7,7 @@ users can choose to view their information in 5 different visualizations.
 
 1. Confusion matrix
 
-![](Images/ConfusionMatrix.png)
+![](DashImages/ConfusionMatrix.png)
 
 2. DET Curves
 
@@ -19,13 +19,13 @@ users can choose to view their information in 5 different visualizations.
 
 5. SDM Curves
 
-![](Images/SDMCurve.png)
+![](DashImages/SDMCurve.png)
 
 This allows for multiple, different views of the data so that there can be a solid understanding of the data trends. The plots are all 
 interactive and can be scaled, cropped, or put into a different view. If there is a specific area that needs emphasis, the user can 
 simply crop that area and view the region of emphasis. It is a very simple interface that will yield valuable information, hope you 
 enjoy. 
 
-![](Images/DashBoard.png)
+![](DashImages/DashBoard.png)
 
 Dashboard layout
