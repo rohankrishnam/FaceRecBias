@@ -80,6 +80,7 @@ Our dashboard tool is universal, meaning anyone can learn how to use it and anyo
 DashBoard Interface Layout
 
 ![](Dash/ezgif.com-video-to-gif.gif)
+
 Dashboard GIF tutorial
 
 # Acknowledgement
