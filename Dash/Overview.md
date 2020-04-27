@@ -31,4 +31,6 @@ enjoy.
 Dashboard layout
 
 
-![](DashImages/Eazy)
+![](DashImages/ezgif.com-video-to-gif.gif)
+
+Dashboard GIF tutorial
