@@ -13,6 +13,7 @@ SDM Curves
 
 Examples are all found in the document below:
 
+https://github.com/rohankrishnam/FaceRecBias/blob/master/Plots.md
 
 
 
