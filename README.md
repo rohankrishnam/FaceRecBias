@@ -79,6 +79,9 @@ Our dashboard tool is universal, meaning anyone can learn how to use it and anyo
 ![](Images/DashBoard.png)
 DashBoard Interface Layout
 
+![](Dash/ezgif.com-video-to-gif.gif)
+Dashboard GIF tutorial
+
 # Acknowledgement
 
 I would like to thank my hard working team and professor for all their assistance throughout this process, we all contributed a great deal to this tool and hope you may find it useful.
